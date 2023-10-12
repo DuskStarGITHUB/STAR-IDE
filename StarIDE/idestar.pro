@@ -4,4 +4,3 @@ SOURCES += main.cpp
 
 # Biblioteca QT
 QT += widgets
-F
