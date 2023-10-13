@@ -6,7 +6,7 @@ Our commitment to providing a comfortable and secure IDE experience for users is
 
 | Version | Supported          |
 | ------- | ------------------ |
-| Beta    |   ✅️               |
+| Beta    |         ✅️         |
 
 ## Reporting an Issue
 
